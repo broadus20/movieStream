@@ -1,2 +1,2 @@
-# movieStream
-This Python code makes streaming easy by bypassing the ads on the website to get to the desired movie
+# movieStream.py
+This Python code makes streaming easy by bypassing the ads on the movie streaming website easy by going directly to your desired movie
