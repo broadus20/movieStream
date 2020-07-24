@@ -4,7 +4,7 @@
 import requests, sys, webbrowser, bs4
 
 
-While True:
+while True:
 
 	movie = input('What would you like to watch?')
 	url = movie.replace(' ', '%20')
